@@ -1,0 +1,8 @@
+apt update && apt upgrade -y
+apt install git
+apt install python2
+https://github.com/UsmanJan/Hackername.git
+cd Hackername
+chmod +x *
+ls
+python2 Hackername.sh
